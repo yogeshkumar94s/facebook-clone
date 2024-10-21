@@ -1,9 +1,9 @@
-import HomePage from "@/components/shared/home-page";
+import Home from "@/components/shared/home";
 
-export default function Home() {
+export default function HomePage() {
   return (
     <main>
-      <HomePage />
+      <Home />
     </main>
   );
 }
